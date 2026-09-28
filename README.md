@@ -34,10 +34,8 @@ These tutorials are provided for educational purposes within ST445. When using c
 
 ## Contact Information
 
-**Course Leader:** 
 
-
-**Module Leader:** [Leonardo Alves Dias](mailto:L.Alves-Dias@lse.ac.uk)  
+**Course Leader:** [Leonardo Alves Dias](mailto:L.Alves-Dias@lse.ac.uk)  
 **Department:** Department of Statistics, LSE  
 **Module Code:** ST445  
 
