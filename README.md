@@ -40,3 +40,9 @@ These tutorials are provided for educational purposes within ST445. When using c
 **Module Code:** ST445  
 
 For module-specific queries, please use official communication channels.
+
+---
+
+## Licence and contact
+
+Unless a file says otherwise, the teaching text is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and the code under the [MIT License](https://opensource.org/license/mit). Datasets keep their original licences, listed in each week's `README.md`.
