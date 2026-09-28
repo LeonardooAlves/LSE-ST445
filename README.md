@@ -3,7 +3,7 @@ LSE Department of Statistics
 
 ## Hands-On Tutorials Repository
 
-[![Module Code](https://img.shields.io/badge/ST445-blue)]([https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2026_ST445.htm](https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2026_ST445.htm))
+[![Module Code](https://img.shields.io/badge/ST445-blue)](https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2026_ST445.htm)
 [![Credits](https://img.shields.io/badge/Unit-Half%20Unit-green)]()
 [![Level](https://img.shields.io/badge/Level-Postgraduate-orange)]()
 [![Duration](https://img.shields.io/badge/Duration-11%20Weeks-purple)]()
