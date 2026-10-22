@@ -12,7 +12,7 @@ LSE Department of Statistics
 
 ## About This Module
 
-Welcome to the **Managing and Visualising Data** course repository! This collection of hands-on tutorials is designed to complement your learning journey through the principles, challenges, and opportunities around data. <a href="https://moodle.lse.ac.uk/course/view.php?id=17025" target="_blank" rel="noopener noreferrer">Click here for the official Moodle Page</a>.
+Welcome to the **ST445 - Managing and Visualising Data** course repository! This collection of hands-on tutorials is designed to complement your learning journey through the principles, challenges, and opportunities around data. <a href="https://moodle.lse.ac.uk/course/view.php?id=17025" target="_blank" rel="noopener noreferrer">Click here for the official Moodle Page</a>.
 
 ### Module Overview
 
